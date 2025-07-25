@@ -63,4 +63,4 @@ if st.button("Quy đổi điểm"):
 # Hiển thị bảng tham chiếu
 st.write("---")
 st.subheader("Bảng tham chiếu")
-st.image("https://i.imgur.com/2024-05-23-09-11-23.png") # Thay bằng link ảnh của bạn nếu muốn
+st.image("https://scontent.fsgn20-1.fna.fbcdn.net/v/t39.30808-6/523376672_1253810263209900_5726782610804787048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Pse8wS4sHLEQ7kNvwECtXDj&_nc_oc=AdluRCZtmv10tOn_y4T_lIRr_qb_A26K6zlLuA-wrCMCWCAhYOXsaFjjMY0812SY3dc&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fsgn20-1.fna&_nc_gid=wR_917uJdC62O42c5qdUrQ&oh=00_AfRuuGV0FMSo_K7SkuQ6JnunSQjHHX23vwN3AOYuABA5MQ&oe=6889317E") # Thay bằng link ảnh của bạn nếu muốn
