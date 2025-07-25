@@ -30,7 +30,7 @@ def quy_doi_diem(x, loai_diem):
 # --- Giao diện ứng dụng web ---
 
 # Tiêu đề của ứng dụng
-st.title("Công cụ Quy đổi điểm ĐHQG-HCM")
+st.title("Công cụ Quy đổi điểm đại học sư phạm kỹ thuật")
 st.write("Dựa trên Bảng phân vị tương quan mức điểm thi THPT, kết quả học tập THPT và điểm đánh giá năng lực.")
 
 # Cho người dùng chọn loại điểm
